@@ -1,4 +1,4 @@
-const List<String> currenciesList = [
+const List<String> currencyList = [
   'AUD',
   'BRL',
   'CAD',
