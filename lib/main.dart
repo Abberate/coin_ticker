@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'login_screen.dart';
-import 'price_screen.dart';
 
 void main() => runApp(const MyApp());
 
@@ -14,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark().copyWith(
           primaryColor: Colors.lightBlue,
           scaffoldBackgroundColor: Colors.white),
-      home: const Login_Screen(),
+      home: const LoginScreen(),
     );
   }
 }
