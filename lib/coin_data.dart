@@ -1,10 +1,11 @@
 const List<String> currencyList = [
+  'XOF',
+  'USD',
+  'EUR',
+  'CAD',
   'AUD',
   'BRL',
-  'CAD',
   'CNY',
-  'EUR',
-  'XOF',
   'GBP',
   'HKD',
   'IDR',
@@ -19,7 +20,6 @@ const List<String> currencyList = [
   'RUB',
   'SEK',
   'SGD',
-  'USD',
   'ZAR'
 ];
 
